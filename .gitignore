@@ -1,1 +1,5 @@
 **/.exercism
+
+haskell/**/.stack-work
+haskell/**/stack.yaml.lock
+haskell/**/*.cabal
